@@ -11,3 +11,6 @@ def sub(a, b):
 def div(a, b):
     return a / b
 
+
+def get_square(a, b):
+    return a ** b
